@@ -22,7 +22,6 @@
         "typo3/cms-backend": "~9.0.0",
         "typo3/cms-belog": "~9.0.0",
         "typo3/cms-beuser": "~9.0.0",
-        "typo3/cms-context-help": "~9.0.0",
         "typo3/cms-core": "~9.0.0",
         "typo3/cms-documentation": "~9.0.0",
         "typo3/cms-extbase": "~9.0.0",
@@ -56,7 +55,6 @@
         "typo3/cms-t3editor": "~9.0.0",
         "typo3/cms-taskcenter": "~9.0.0",
         "typo3/cms-tstemplate": "~9.0.0",
-        "typo3/cms-version": "~9.0.0",
         "typo3/cms-viewpage": "~9.0.0",
         "typo3/cms-workspaces": "~9.0.0"
     },
