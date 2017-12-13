@@ -1,0 +1,28 @@
+{
+    "name": "nimut/typo3-complete",
+    "type": "metapackage",
+    "description": "The complete TYPO3 package with all core extensions in the respective TYPO3 version",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Helmut Hummel",
+            "role": "Developer",
+            "homepage": "https://helhum.io"
+        },
+        {
+            "name": "Nicole Cordes",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/nimut/typo3-complete/issues"
+    },
+    "require": {
+        "typo3/cms": "^7.6"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "7.6.x-dev"
+        }
+    }
+}
