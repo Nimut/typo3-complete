@@ -22,7 +22,6 @@
         "typo3/cms-backend": "dev-master",
         "typo3/cms-belog": "dev-master",
         "typo3/cms-beuser": "dev-master",
-        "typo3/cms-context-help": "dev-master",
         "typo3/cms-core": "dev-master",
         "typo3/cms-documentation": "dev-master",
         "typo3/cms-extbase": "dev-master",
