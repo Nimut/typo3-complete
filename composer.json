@@ -18,11 +18,11 @@
         "issues": "https://github.com/nimut/typo3-complete/issues"
     },
     "require": {
-        "typo3/cms": "^7.6"
+        "typo3/cms": "^8.7"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "7.6.x-dev"
+            "dev-master": "8.7.x-dev"
         }
     }
 }
