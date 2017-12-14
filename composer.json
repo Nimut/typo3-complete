@@ -17,6 +17,9 @@
     "support": {
         "issues": "https://github.com/nimut/typo3-complete/issues"
     },
+    "replace": {
+        "typo3/cms-rte-ckeditor": "self.version"
+    },
     "require": {
         "typo3/cms": "^7.6"
     },
