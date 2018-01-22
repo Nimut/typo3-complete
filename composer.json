@@ -2,7 +2,7 @@
     "name": "nimut/typo3-complete",
     "type": "metapackage",
     "description": "The complete TYPO3 package with all core extensions in the respective TYPO3 version",
-    "license": "GPL-2.0+",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Helmut Hummel",
