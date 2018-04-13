@@ -19,6 +19,7 @@
     },
     "require": {
         "typo3/cms-about": "~9.2.0",
+        "typo3/cms-adminpanel": "~9.2.0",
         "typo3/cms-backend": "~9.2.0",
         "typo3/cms-belog": "~9.2.0",
         "typo3/cms-beuser": "~9.2.0",
