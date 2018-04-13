@@ -44,6 +44,7 @@
         "typo3/cms-opendocs": "~9.1.0",
         "typo3/cms-recordlist": "~9.1.0",
         "typo3/cms-recycler": "~9.1.0",
+        "typo3/cms-redirects": "~9.1.0",
         "typo3/cms-reports": "~9.1.0",
         "typo3/cms-rsaauth": "~9.1.0",
         "typo3/cms-rte-ckeditor": "~9.1.0",
