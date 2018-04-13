@@ -19,6 +19,7 @@
     },
     "require": {
         "typo3/cms-about": "dev-master",
+        "typo3/cms-adminpanel": "dev-master",
         "typo3/cms-backend": "dev-master",
         "typo3/cms-belog": "dev-master",
         "typo3/cms-beuser": "dev-master",
@@ -44,6 +45,7 @@
         "typo3/cms-opendocs": "dev-master",
         "typo3/cms-recordlist": "dev-master",
         "typo3/cms-recycler": "dev-master",
+        "typo3/cms-redirects": "dev-master",
         "typo3/cms-reports": "dev-master",
         "typo3/cms-rsaauth": "dev-master",
         "typo3/cms-rte-ckeditor": "dev-master",
