@@ -39,7 +39,6 @@
         "typo3/cms-indexed-search": "dev-master",
         "typo3/cms-info": "dev-master",
         "typo3/cms-install": "dev-master",
-        "typo3/cms-lang": "dev-master",
         "typo3/cms-linkvalidator": "dev-master",
         "typo3/cms-lowlevel": "dev-master",
         "typo3/cms-opendocs": "dev-master",
@@ -62,7 +61,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "9.3.x-dev"
+            "dev-master": "9.4.x-dev"
         }
     }
 }
