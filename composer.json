@@ -50,6 +50,7 @@
         "typo3/cms-rte-ckeditor": "dev-master",
         "typo3/cms-saltedpasswords": "dev-master",
         "typo3/cms-scheduler": "dev-master",
+        "typo3/cms-seo": "dev-master",
         "typo3/cms-setup": "dev-master",
         "typo3/cms-sys-action": "dev-master",
         "typo3/cms-sys-note": "dev-master",
