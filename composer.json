@@ -58,7 +58,9 @@
         "typo3/cms-taskcenter": "~9.2.0",
         "typo3/cms-tstemplate": "~9.2.0",
         "typo3/cms-viewpage": "~9.2.0",
-        "typo3/cms-workspaces": "~9.2.0"
+        "typo3/cms-workspaces": "~9.2.0",
+        "doctrine/dbal": ">=2.6 <2.8",
+        "doctrine/lexer": "^1.0"
     },
     "extra": {
         "branch-alias": {
