@@ -26,7 +26,6 @@
         "typo3/cms-core": "dev-master",
         "typo3/cms-extbase": "dev-master",
         "typo3/cms-extensionmanager": "dev-master",
-        "typo3/cms-feedit": "dev-master",
         "typo3/cms-felogin": "dev-master",
         "typo3/cms-filelist": "dev-master",
         "typo3/cms-filemetadata": "dev-master",
