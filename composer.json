@@ -48,10 +48,8 @@
         "typo3/cms-scheduler": "dev-master",
         "typo3/cms-seo": "dev-master",
         "typo3/cms-setup": "dev-master",
-        "typo3/cms-sys-action": "dev-master",
         "typo3/cms-sys-note": "dev-master",
         "typo3/cms-t3editor": "dev-master",
-        "typo3/cms-taskcenter": "dev-master",
         "typo3/cms-tstemplate": "dev-master",
         "typo3/cms-viewpage": "dev-master",
         "typo3/cms-workspaces": "dev-master"
