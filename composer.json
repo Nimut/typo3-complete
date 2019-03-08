@@ -44,7 +44,6 @@
         "typo3/cms-recycler": "dev-master",
         "typo3/cms-redirects": "dev-master",
         "typo3/cms-reports": "dev-master",
-        "typo3/cms-rsaauth": "dev-master",
         "typo3/cms-rte-ckeditor": "dev-master",
         "typo3/cms-scheduler": "dev-master",
         "typo3/cms-seo": "dev-master",
