@@ -18,7 +18,6 @@
         "issues": "https://github.com/nimut/typo3-complete/issues"
     },
     "require": {
-        "typo3/cms-about": "~11.0.0",
         "typo3/cms-adminpanel": "~11.0.0",
         "typo3/cms-backend": "~11.0.0",
         "typo3/cms-belog": "~11.0.0",
